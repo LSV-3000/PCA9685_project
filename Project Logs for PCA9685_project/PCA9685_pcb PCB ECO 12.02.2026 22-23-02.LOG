@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=P21-0
+Added Pin To Net: NetName=+5_IN Pin=J1-1
+Added Pin To Net: NetName=+5_IN Pin=P21-0
+Added Pin To Net: NetName=+5_IN Pin=Q-4
+Added Net: Name=+5_IN
+Added Rule: Name=Schematic Supply Nets_6
