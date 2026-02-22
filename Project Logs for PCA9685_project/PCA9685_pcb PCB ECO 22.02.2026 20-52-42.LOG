@@ -1,0 +1,122 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R2 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R3 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R4 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R5 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R6 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R7 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R8 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R9 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R10 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R11 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R12 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R13 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R14 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Footprint: Designator=R15 Old Footprint=RES_ERJB3CFR15V New Footprint=RES_ERJU08F4703V
+Change Component Comment : Designator=R1 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=R15 Old Comment=470 New Comment=1K
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\WXFHKOPD" ("\WXFHKOPD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\FWLEFNLO" ("\FWLEFNLO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\KSYQLLHW" ("\KSYQLLHW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\IJULMTRK" ("\IJULMTRK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\HQVICXPD" ("\HQVICXPD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\ALBPNKEK" ("\ALBPNKEK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\DJWPEPKS" ("\DJWPEPKS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\QMLYPQQM" ("\QMLYPQQM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\XVKHSYYB" ("\XVKHSYYB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\UMFIMNDD" ("\UMFIMNDD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\AYGKMPOZ" ("\AYGKMPOZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\OUPGNPMV" ("\OUPGNPMV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\JXVBEALE" ("\JXVBEALE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\LHKNCOQG" ("\LHKNCOQG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES_ERJB3CFR15V"; UniqueID = "\IAIYIRHZ" ("\IAIYIRHZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

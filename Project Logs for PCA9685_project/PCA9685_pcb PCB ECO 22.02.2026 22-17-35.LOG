@@ -1,0 +1,60 @@
+Added Component: Designator=D1(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-C
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=GND Pin=D2-C
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D3-C
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=GND Pin=D4-C
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=GND Pin=D5-C
+Added Pin To Net: NetName=VCC Pin=D6-A
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D1 GREEN
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D2 GREEN
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D3 GREEN
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D4 GREEN
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D5 GREEN
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D6 GREEN

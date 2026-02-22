@@ -1,0 +1,10 @@
+Added Component: Designator=D7(LED_LTST-C230KGKT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KGKT/Lite-On/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D7-A
+Added Pin To Net: NetName=NetD7_C Pin=D7-C
+Added Member To Class: ClassName=PCA9685_sheet Member=Component D7 GREEN
