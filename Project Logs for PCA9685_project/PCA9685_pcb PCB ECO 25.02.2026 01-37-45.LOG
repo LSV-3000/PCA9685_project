@@ -1,0 +1,57 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC3216X178N New Footprint=Capacitor 1206
+Change Component Footprint: Designator=C2 Old Footprint=CAPC3216X178N New Footprint=Capacitor 1206
+Change Component Footprint: Designator=C3 Old Footprint=CAPPRD500W60D800H1500 New Footprint=Electrolytic capacitor
+Change Component Footprint: Designator=Q1 Old Footprint=DPAK228P994X240_3N New Footprint=Transistor AOD417
+Change Component Footprint: Designator=D1 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=D2 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=D3 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=D4 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=D5 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=D6 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=D7 Old Footprint=LED_LTST-C230KGKT New Footprint=LED 1206
+Change Component Footprint: Designator=J1 Old Footprint=PHOENIX_1729128 New Footprint=PCB Terminal Screw
+Change Component Footprint: Designator=R1 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R2 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R3 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R4 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R5 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R6 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R7 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R8 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R9 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R10 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R11 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R12 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R13 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R14 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=R15 Old Footprint=RES_ERJU08F4703V New Footprint=Resistor 1206
+Change Component Footprint: Designator=U1 Old Footprint=SOP65P640X110-28N New Footprint=PCA9685PW
+Change Component Comment : Designator=P6 Old Comment=+5_0 New Comment=PIN_1
+Change Component Comment : Designator=P7 Old Comment=+5_1 New Comment=PIN_1
+Change Component Comment : Designator=P8 Old Comment=+5_2 New Comment=PIN_1
+Change Component Comment : Designator=P9 Old Comment=+5_3 New Comment=PIN_1
+Change Component Comment : Designator=P10 Old Comment=+5_4 New Comment=PIN_1
+Change Component Comment : Designator=P22 Old Comment=+5_pin_reserve New Comment=PIN_1
+Change Component Comment : Designator=P21 Old Comment=5+ New Comment=PIN_1
+Change Component Comment : Designator=J1 Old Comment=1729128 New Comment=PCB Terminal Screw
+Change Component Comment : Designator=P17 Old Comment=GND New Comment=PIN_1
+Change Component Comment : Designator=P11 Old Comment=GND_0 New Comment=PIN_1
+Change Component Comment : Designator=P12 Old Comment=GND_1 New Comment=PIN_1
+Change Component Comment : Designator=P13 Old Comment=GND_2 New Comment=PIN_1
+Change Component Comment : Designator=P14 Old Comment=GND_3 New Comment=PIN_1
+Change Component Comment : Designator=P15 Old Comment=GND_4 New Comment=PIN_1
+Change Component Comment : Designator=D1 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=D2 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=D3 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=D4 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=D5 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=D6 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=D7 Old Comment=GREEN New Comment=LED 1206
+Change Component Comment : Designator=P20 Old Comment=OE New Comment=PIN_1
+Change Component Comment : Designator=U1 Old Comment=PCA9685PW,118 New Comment=PCA9685PW
+Change Component Comment : Designator=P19 Old Comment=SCL New Comment=PIN_1
+Change Component Comment : Designator=P18 Old Comment=SDA New Comment=PIN_1
+Change Component Comment : Designator=P16 Old Comment=VCC New Comment=PIN_1
+Added Component: Designator=P23(PCB_Pin_1)
+Added Pin To Net: NetName=GND Pin=P23-0
+Added Member To Class: ClassName=PCA9685_sheet Member=Component P23 PIN_1
